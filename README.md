@@ -15,7 +15,6 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&width=450&lines=Welcome!;I'm+a+Software+Engineer;Frontend+Developer;Enjoy+my+Github+Page!)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" height="250px" width="260px" src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" href="https://nachooosss.github.io"/>
 
 <p>
     <a href="https://skillicons.dev">
